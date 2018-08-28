@@ -20,8 +20,8 @@ public class SplitArray {
 			}
 		
 			
-		System.out.println(Arrays.toString(b));	
-		System.out.println(Arrays.toString(c));		
+		System.out.println("First half"+Arrays.toString(b));	
+		System.out.println("Second half"+Arrays.toString(c));		
 			
 		}
 		
